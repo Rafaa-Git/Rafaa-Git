@@ -1,16 +1,17 @@
 # Salut, je suis Rafael 👋
 
-Développeur Web & Mobile freelance, spécialisé en React Native, WordPress et Supabase.
+Développeur Mobile freelance, spécialisé en React Native, Expo et Supabase.
 
-Après 7 ans dans l'assurance, reconversion vers le développement — de l'idée à la publication sur les stores.
+Après 7 ans dans l'assurance, reconversion vers le développement mobile — un domaine qui m'attirait déjà bien avant Gridbusters.
 
-## 🚀 Projets
-- **Gridbusters** — jeu mobile React Native, publié sur l'App Store et Google Play
-- **Rybro Games** — site vitrine WordPress pour un studio de jeux
-- **Coque Atelier** — boutique e-commerce WooCommerce
+## 🚀 Projet phare
+**Gridbusters** — jeu mobile développé de A à Z, publié sur l'App Store et Google Play
 
-## 🛠️ Stack
-React Native · Expo · Supabase · JavaScript/TypeScript · WordPress · WooCommerce
+## 🛠️ Stack mobile
+React Native · Expo · Supabase · JavaScript/TypeScript
+
+## 🌐 En complément
+Sites vitrine et e-commerce (WordPress, WooCommerce)
 
 ## 📫 Me contacter
 - Portfolio : [moored-parade-bd3.notion.site](https://moored-parade-bd3.notion.site)
